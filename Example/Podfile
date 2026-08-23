@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FTLogger_Tests' do
+  pod 'FTLogger', :path => '../'
+  
+  
+end
